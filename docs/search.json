@@ -4,20 +4,27 @@
     "href": "index.html",
     "title": "Anne Heissenbuttel",
     "section": "",
-    "text": "A little bit about me and my life."
+    "text": "Reed College, Portland | Oregon | Sept 2023 - May 2027\nSchool for Field Studies, Kenya | Africa | January 2025 - May 2025\nUniversity College Cork, Cork | Ireland | September 2025 - December 2025"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Anne Heissenbuttel",
-    "section": "Education",
-    "text": "Education\nUniversity of XYZ, City | Location | Sept 20XX - June 20XX"
+    "section": "",
+    "text": "Reed College, Portland | Oregon | Sept 2023 - May 2027\nSchool for Field Studies, Kenya | Africa | January 2025 - May 2025\nUniversity College Cork, Cork | Ireland | September 2025 - December 2025"
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
     "title": "Anne Heissenbuttel",
     "section": "Experience",
-    "text": "Experience\nWorkplace | Job title | April 20XX - present"
+    "text": "Experience\nMaine Audubon | Biological Intern | May 2024 - August 2025\nMaine Department of Inland Fisheries and Wildlife | Bat Monitoring Technician | May 2026 - August 2026\nSchool for Field Studies Kenya | Research Assistant | January 2025 - May 2025"
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Anne Heissenbuttel",
+    "section": "Publications",
+    "text": "Publications\n“FireFinder” | rStudio CRAN | 2026\n“Effectiveness of The Mbirikani Predator Compensation Fund in Mitigating Human Lion Conflict” | Journal of | 2027\n“The Forecast? Loons Won’t Nest in Cloudy Waters” | Maine Audubon | 2024\n“Loons on the move: A visit to the Southern Maine Children’s Water Festival” | Maine Audubon | 2025"
   }
 ]

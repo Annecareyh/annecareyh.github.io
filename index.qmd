@@ -15,11 +15,14 @@ about: # https://quarto.org/docs/websites/website-about.html
       href: https://linkedin.com
 ---
 
-A little bit about me and my life. 
 
 ## Education
 
 Reed College, Portland \| Oregon \| Sept 2023 - May 2027
+
+School for Field Studies, Kenya \| Africa \| January 2025 - May 2025
+
+University College Cork, Cork \| Ireland \| September 2025 - December 2025
 
 ## Experience
 
@@ -27,4 +30,14 @@ Maine Audubon \| Biological Intern \| May 2024 - August 2025
 
 Maine Department of Inland Fisheries and Wildlife  \| Bat Monitoring Technician \| May 2026 - August 2026
 
-School for Field Studies Kenya  \| Research Assistant \| January 2025 - May 2025
+School for Field Studies Kenya \| Research Assistant \| January 2025 - May 2025
+
+## Publications 
+
+"FireFinder" \| rStudio CRAN \| 2026
+
+"Effectiveness of The Mbirikani Predator Compensation Fund in Mitigating Human Lion Conflict" \| Journal of \| 2027
+
+"The Forecast? Loons Won’t Nest in Cloudy Waters" \| Maine Audubon \| 2024
+
+"Loons on the move: A visit to the Southern Maine Children’s Water Festival" \| Maine Audubon \| 2025
